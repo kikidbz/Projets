@@ -1,0 +1,22 @@
+.headline{
+	color: red;
+	font-weight: bold;
+	font-size: 30px;
+	padding-left: 29%;
+
+	
+}
+#Logo{
+	width: 10%;
+}
+
+body{
+	background-color: #FAEBD7;
+	font-size: 150%;
+}
+.welcome{
+	font-size: 100%;
+}
+ul{
+	font-weight: bold;
+}

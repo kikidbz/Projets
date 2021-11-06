@@ -1,0 +1,44 @@
+h2.headline{
+	color: red;
+	font-size: 50px;
+	padding-left: 23%;
+
+}
+
+#Logo{
+	width: 10%;
+}
+
+body{
+	background-color: #FAEBD7;
+}
+ul{
+	font-weight: bold;
+	color: green;
+	list-style-type: square;
+	font-size: 25px;
+	padding-left:13%; 
+}
+.Jeux{
+	font-size: 28px
+	
+}
+.welcome{
+	padding-left: 23%;
+	font-size: 30px;
+	font-weight: bold;
+}
+.flotte{
+	float: right;
+}
+.compétitions{
+	font-size: 25px;
+}
+
+.liste{
+	font-size: 20px;
+}
+
+#FIN{
+	padding-top: 10%;
+}
